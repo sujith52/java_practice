@@ -18,29 +18,29 @@
 *Goal: Write basic Java programs and understand the language's core mechanics.*
 
 ### 1.1 Environment Setup
-- [✅ ] Install JDK (Java Development Kit)
-- [✅ ] Install an IDE — IntelliJ IDEA (recommended) or Eclipse
-- [✅ ] Understand JDK vs JRE vs JVM
-- [✅ ] Write and run your first `Hello World` program
-- [✅ ] Understand the Java compilation process (`.java` → `.class` → bytecode)
+- [x] Install JDK (Java Development Kit)
+- [x] Install an IDE — IntelliJ IDEA (recommended) or Eclipse
+- [x] Understand JDK vs JRE vs JVM
+- [x] Write and run your first `Hello World` program
+- [x] Understand the Java compilation process (`.java` → `.class` → bytecode)
 
 ### 1.2 Java Basics
-- [✅ ] Data types — `int`, `float`, `double`, `char`, `boolean`, `long`, `byte`, `short`
-- [✅ ] Variables and constants (`final`)
-- [✅ ] Type casting — implicit and explicit
-- [✅ ] Operators — arithmetic, relational, logical, bitwise, assignment, ternary
-- [✅ ] String basics — `String` class, concatenation, `length()`, `charAt()`, `substring()`
-- [✅ ] Input/Output — `Scanner`, `System.out.println()`
-- [✅ ] Comments — single-line, multi-line, Javadoc
+- [x] Data types — `int`, `float`, `double`, `char`, `boolean`, `long`, `byte`, `short`
+- [x] Variables and constants (`final`)
+- [x] Type casting — implicit and explicit
+- [x] Operators — arithmetic, relational, logical, bitwise, assignment, ternary
+- [x] String basics — `String` class, concatenation, `length()`, `charAt()`, `substring()`
+- [x] Input/Output — `Scanner`, `System.out.println()`
+- [x] Comments — single-line, multi-line, Javadoc
 
 ### 1.3 Control Flow
-- [ ] `if`, `else if`, `else` statements
-- [ ] `switch` statement (classic and enhanced switch expressions - Java 14+)
-- [ ] `for` loop
-- [ ] `while` loop
-- [ ] `do-while` loop
-- [ ] `break` and `continue`
-- [ ] Nested loops
+- [x] `if`, `else if`, `else` statements
+- [x] `switch` statement (classic and enhanced switch expressions - Java 14+)
+- [x] `for` loop
+- [x] `while` loop
+- [x] `do-while` loop
+- [x] `break` and `continue`
+- [x] Nested loops
 
 ### 1.4 Arrays
 - [ ] Single-dimensional arrays — declaration, initialization, access
